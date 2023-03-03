@@ -94,11 +94,11 @@
 #
 #
 
-### 
-### that every single respondent cited interest in transfering to a 4-year college.    
-### So, of course every major study is interested in doing so. On one hand, this means 
-### there might be more analysis to perform. On the other hand, perhaps it's worth     
-### keeping in mind that most people transfer and coordinating computer classes       
-### accordingly.
+### The insight in this finding is that folks who are coming to County College of Morris
+### for career advancement are significantly more interested (by a differential of about 30%)
+### in cyber security classes. This suggests it would be worthwhile to advertise towards this co-occuring 
+### interest in career development and cyber security. Perhaps by marketing the cyber security classes
+### more heavily within the professional studies department at CCM.
+
 
 
