@@ -18,24 +18,29 @@
 ### Hispanic or Latino: 23.66%
 ### White/Caucasian: 39.69%
 ### Multi-Racial: 14.5%
+### Chose Not To Reply
 
 ## (4) What is the age distribution for the survey?
-### 18 and younger	33.59%
-### 19-20	33.59%
-### 21-24	16.79%
-### 25-34	12.21%
-### 35-64	3.82%
+### 18 and younger --> 33.59%
+### 19-20	--> 33.59%
+### 21-24	--> 16.79%
+### 25-34	--> 12.21%
+### 35-64	--> 3.82%
 
 ## Disaggregation of Data-
-##  (1) I looked at how age spreads across "found CCM on social media" as 
-##      well as "EITHER criminal justice major OR not"
+##  (1) I looked at the buckets of financial aid impactfulness (High/No/Some Impact)
+##      and the corresponding interest in Cyber Security classes.
+##      (Note that I have excluded "No Impact" responses, as they hold little value
+##       and represent just 30 percent of the sample)
 
-### Age                         Drawn by Social Media	Studying Criminal Justice
-### 18 and younger	            27.27%	                45.45%
-### 19-20	                    20.45%	                13.64%
-### 21-24	                    9.09%	                18.18%
-### 25-34	                    12.50%	                6.25%
-### 35-64	                    NONE	                20.00%
+### Financial Aid Impactfulness &nbsp; Interest In Cyber Security
+### High Impact                 &nbsp; Yes -> 49%
+### No Impact                   &nbsp; Yes -> 28.9%
+### Some Impact                 &nbsp; Yes -> 28.9%
+
+
+
+
 
 ###   The insight here is that students "18 and younger" are studying criminal justice
 ###   in large numbers. Moreover, considering this group is the most influenced by     
