@@ -72,10 +72,29 @@
 ###   regarding financial aid (i.e. near the County College of Morris financial aid office).
 
 
-## (1) A question I looked at was "what major shows the most interest in transfering 
-##     to a 4-year college.
+#
+#
+#
+#
+#
 
-### After some cursory analysis of the data in Excel with a pivot table it appears
+
+## (2) Next I looked at those who DID and DID NOT cite career advancement
+##     as an enrollment motivator, and those two groups respective interest
+##     in cybersecurity classes.
+
+#
+#
+#
+
+### Respondents who DID cite career advancement as an enrollment goal, 57.1% were interested in Cyber Security courses.
+### Respondents who DID NOT cite career advancement as an enrollment goal, 21.3% were interested in Cyber Security courses.
+
+#
+#
+#
+
+### 
 ### that every single respondent cited interest in transfering to a 4-year college.    
 ### So, of course every major study is interested in doing so. On one hand, this means 
 ### there might be more analysis to perform. On the other hand, perhaps it's worth     
