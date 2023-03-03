@@ -33,20 +33,17 @@
 ##      (Note that I have excluded "No Impact" responses, as they hold little value
 ##       and represent just 30 percent of the sample)
 
-### Financial Aid Impactfulness &nbsp; Interest In Cyber Security
-### High Impact                 &nbsp; Yes -> 49%
-### No Impact                   &nbsp; Yes -> 28.9%
-### Some Impact                 &nbsp; Yes -> 28.9%
+### Respondents citing that financial aid was HIGHLY impactful, were 49% interested in Cyber Security Courses.
+### Respondents citing that financial aid was NOT impactful, were 28.9% interested in Cyber Security Courses.
+### Respondents citing that financial aid was SOMEWHAT impactful, were 28.9% interested in Cyber Security Courses.
 
 
-
-
-
-###   The insight here is that students "18 and younger" are studying criminal justice
-###   in large numbers. Moreover, considering this group is the most influenced by     
-###   social media it should pay to place some targeted advertising on CCMs' social  
-###   accounts that draws a relationship between "criminal justice" and "technology."
-###   This would suggest they should try a computing class.
+###   The insight here is that students who find financial aid important are slightly more interested
+###   in cyber security classes. Note that the "NOT" and "SOMEWHAT" financial aid groups     
+###   are equal to the first decimal place in their respective interest in cyber security courses.  
+###   Given the elevated interest in cyber security courses amongst people who value financial aid
+###   perhaps it would pay to place literature regarding cyber security courses with literature
+###   regarding financial aid (i.e. near the County College of Morris financial aid office).
 
 
 ## (1) A question I looked at was "what major shows the most interest in transfering 
