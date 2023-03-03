@@ -28,10 +28,10 @@
 ### 35-64	--> 3.82%
 
 ## Disaggregation of Data-
-##  (1) I looked at the buckets of financial aid impactfulness (High/No/Some Impact)
-##      and the corresponding interest in Cyber Security classes.
-##      (Note that I have excluded "No Impact" responses, as they hold little value
-##       and represent just 30 percent of the sample)
+###  (1) I looked at the buckets of financial aid impactfulness (High/No/Some Impact)
+###      and the corresponding interest in Cyber Security classes.
+###      (Note that I have excluded "No Impact" responses, as they hold little value
+###       and represent just 30 percent of the sample)
 
 ### Respondents citing that financial aid was HIGHLY impactful, were 49% interested in Cyber Security Courses.
 ### Respondents citing that financial aid was NOT impactful, were 28.9% interested in Cyber Security Courses.
